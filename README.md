@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/DrhSsvF/a.jpg)](https://aymenghnia.com)
+[![MasterHead](https://i.ibb.co/4mvFXW6/aa.png)](https://aymenghnia.com)
 
 <h1 align="center">Hi 👋, I'm Aymen Ghnia</h1>
 <h3 align="center">A passionate frontend developer from Tunisia !</h3>
