@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [https://github.com/aymenghnia/irongym-frontend-react](https://github.com/aymenghnia/irongym-frontend-react)
 
-- 🌱 I’m currently learning **Three JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aymenghnia](https://github.com/aymenghnia)
 
 - 💬 Ask me about **react, Sass**
 
-- 📫 How to reach me **ghniaaymen@gmail.com**
+- 📫 How to reach me **ghniaaymen@gmail.com**,**Contact@aymenghnia.com**
 
 - 📄 Know about my experiences : [Download my Resume ](https://demo.aymenghnia.com/AymenGhnia_Cv_Fr.pdf)
 
