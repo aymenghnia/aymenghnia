@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aymen Ghnia</h1>
 <h3 align="center">A passionate frontend developer from Tunisia !</h3>
-<img align="right" alt="Coding" width="300" src="https://i.ibb.co/0jNyg5D/v.pngg">
+<img align="right" alt="Coding" width="300" src="https://dev.aymenghnia.com/img/aymen.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenghnia&label=Profile%20views&color=0e75b6&style=flat" alt="aymenghnia" /> </p>
