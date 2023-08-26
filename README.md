@@ -1,8 +1,8 @@
 [![MasterHead](https://i.ibb.co/4mvFXW6/aa.png)](https://aymenghnia.com)
 
 <h1 align="center">Hi 👋, I'm Aymen Ghnia</h1>
-<h3 align="center">A passionate frontend developer from Tunisia !</h3>
-<img align="right" alt="Coding" width="300" src="https://dev.aymenghnia.com/img/aymen2.png">
+<h3 align="center">A passionate  developer from Tunisia !</h3>
+<img align="right" alt="Coding" width="300" src="https://i.ibb.co/Kz6yx4n/profile-pic-3-modified.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenghnia&label=Profile%20views&color=0e75b6&style=flat" alt="aymenghnia" /> </p>
