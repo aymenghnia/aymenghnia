@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/4mvFXW6/aa.png)](https://aymenghnia.com)
+[![MasterHead](https://i.ibb.co/4mvFXW6/aa.png)](https://aymenghnia.dev)
 
 <h1 align="center">Hi 👋, I'm Aymen Ghnia</h1>
 <h3 align="center">A passionate  developer from Tunisia !</h3>
@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **react, Sass**
 
-- 📫 How to reach me **ghniaaymen@gmail.com**,**Contact@aymenghnia.com**
+- 📫 How to reach me **ghniaaymen@gmail.com**,**Contact@aymenghnia.dev**
 
-- 📄 Know about my experiences : [Download my Resume ](https://link.aymenghnia.com/cvEn)
+- 📄 Know about my experiences : [Download my Resume (english) ](https://link.aymenghnia.dev/cv_en) |  [Download my Resume (Frensh) ](https://link.aymenghnia.dev/cv_fr)
 
 - ⚡ Fun fact **I love Hrissa & PIZZA 🍕**
 
