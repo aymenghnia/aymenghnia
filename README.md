@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aymenghnia](https://github.com/aymenghnia)
 
-- 💬 Ask me about **react, Sass**
+- 💬 Ask me about **Flutter, React JS**
 
 - 📫 How to reach me **ghniaaymen@gmail.com**,**Contact@aymenghnia.dev**
 
