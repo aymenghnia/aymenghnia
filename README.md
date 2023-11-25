@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available on  [My Portfolioa](https://aymenghnia.dev)
+- 👨‍💻 All of my projects are available on  [My Portfolio](https://aymenghnia.dev)
 
 - 💬 Ask me about **Flutter, React JS**
 
