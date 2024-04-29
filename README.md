@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available on  [My Portfolio](https://aymenghnia.dev)
 
-- 💬 Ask me about **Angular, Symfony, Flutter, React JS, Bossted...**
+- 💬 Ask me about **Angular, Symfony, Flutter, React JS, Boosted...**
 
 - 📫 How to reach me **ghniaaymen@gmail.com**,**Contact@aymenghnia.dev**
 
