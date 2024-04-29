@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/aymenghn" target="blank"><img src="https://img.shields.io/twitter/follow/aymenghn?logo=twitter&style=for-the-badge" alt="aymenghn" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Mobile App](#)
+- 🔭 I’m currently working on [Web App ( Angular/Symfony ) For Orange France at Sofrecom Tunisie](#)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available on  [My Portfolio](https://aymenghnia.dev)
 
-- 💬 Ask me about **Flutter, React JS**
+- 💬 Ask me about **Angular, Symfony, Flutter, React JS, Bossted...**
 
 - 📫 How to reach me **ghniaaymen@gmail.com**,**Contact@aymenghnia.dev**
 
