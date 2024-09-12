@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Angular, Symfony, Flutter, React JS, Boosted...**
 
-- 📫 How to reach me **ghniaaymen@gmail.com**,**Contact@aymenghnia.dev**
+- 📫 How to reach me **ghniaaymen@gmail.com**,**aymenghniadev@gmail.com**
 
 - 📄 Know about my experiences : Download my Resume [ (English) ](https://link.aymenghnia.dev/cv_en) |  [ (Frensh) ](https://link.aymenghnia.dev/cv_fr)
 
