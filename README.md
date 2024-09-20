@@ -41,6 +41,13 @@
 
 <p><a href="https://www.buymeacoffee.com/AymenGhnia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AymenGhnia" /></a></p><br><br>
 
+
+ <h1 align="center"></h1>
+
+<p align="center">
+   <i>"A star is hidden in daylight, but its brilliance is meant for the night." – Yosser
+</i>
+   
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymenghnia&show_icons=true&locale=en&layout=compact" alt="aymenghnia" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymenghnia&show_icons=true&locale=en" alt="aymenghnia" /></p> -->
