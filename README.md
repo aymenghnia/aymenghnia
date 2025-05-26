@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ghniaaymen@gmail.com**  |  **aymenghniadev@gmail.com**
 
-- 📄 Know about my experiences : Download my Resume [ (English) ](https://drive.google.com/file/d/1Coj4iOZZ4sU6sOdzNssEGTKhj731HaCa/view?usp=sharing) |  [ (Frensh) ](https://drive.google.com/file/d/1kuT8VLN7B1FGCpvOHHnbCCdQ_OXIYYQc/view?usp=sharing)
+- 📄 Know about my experiences : Download my Resume [ (English) ](https://drive.google.com/file/d/1Coj4iOZZ4sU6sOdzNssEGTKhj731HaCa/view?usp=sharing) |  [ (Frensh) ](https://drive.google.com/file/d/1hKRXuT_PVogK6y2E6q3LKo2fmQKneQwC/view?usp=sharing)
 
 - ⚡ Fun fact **I love Hrissa & PIZZA 🍕**
 
